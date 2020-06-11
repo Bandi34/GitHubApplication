@@ -22,6 +22,8 @@ namespace GitHubApplication
         private void MainWindow_Load(object sender, EventArgs e)
         {
 
+            lblCaption.Text += " - 새파일";
+
         }
 
 
