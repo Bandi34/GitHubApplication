@@ -21,9 +21,12 @@ namespace GitHubApplication
 
         private void MainWindow_Load(object sender, EventArgs e)
         {
+            InitializeLoad();
+        }
 
-            lblCaption.Text += " - 새파일";
-
+        private void InitializeLoad()
+        {
+            MessageBox.Show("Load");
         }
 
 
