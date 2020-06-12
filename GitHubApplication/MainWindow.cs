@@ -26,7 +26,7 @@ namespace GitHubApplication
 
         private void InitializeLoad()
         {
-            MessageBox.Show("GitHub - Update . 1");
+            MessageBox.Show("GitHub - Update . 2");
 
 
 
